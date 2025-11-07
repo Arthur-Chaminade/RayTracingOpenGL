@@ -5,6 +5,7 @@
 
 ## About
 This is a personal project, the aim is to learn about ray tracing, the graphic pipeline, OpenGL, GPU and have fun too.
+
 It is still a work in progress and there are a lot of optimisations to do, but I think i will learn Vulkan next, as it feels restricting to be limited to Shader rayTracing
 
 It can import objects, and the basic structure for the creation of a scene in the code is there.
